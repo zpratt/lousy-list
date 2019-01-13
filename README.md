@@ -7,6 +7,7 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 * [Architecture Decision Records](https://adr.github.io)
 * [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar)
+* [Architect Elevator](https://martinfowler.com/articles/architect-elevator.html)
 
 ### System Design
 
