@@ -3,6 +3,11 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 ## Architecture
 
+### Being an architect
+
+* [Architecture Decision Records](https://adr.github.io)
+* [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar)
+
 ### System Design
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
