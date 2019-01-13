@@ -9,6 +9,12 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 ### Techniques
 
+#### Clean and Hexagonal Architecture
+
+I realize they aren't technically the same, but they are very similar
+
+* [.net core reference implementation](https://github.com/ivanpaulovich/clean-architecture-manga)
+
 #### 12 Factor Apps
 
 * [12 Factor App Manifesto](https://12factor.net)
