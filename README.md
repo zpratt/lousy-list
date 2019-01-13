@@ -20,6 +20,8 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 ### Infrastructure As Code
 
+* [Test-driven Terraform](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
+
 ### Configuration As Code
 
 ### CI/CD
@@ -29,3 +31,8 @@ My lousy awesome list, which consists of things I actually use or am interested 
 * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 
 ## Kubernetes
+
+### Intro
+
+* [Docker and containers made simple](https://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
+* [Illustrated Guide To Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
