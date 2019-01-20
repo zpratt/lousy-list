@@ -42,9 +42,19 @@ I realize they aren't technically the same, but they are very similar
 
 * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 
+### Currently Experimenting With
+
+* [NATS](https://github.com/zpratt/nats-experiments)
+
 ## Kubernetes
 
 ### Intro
 
 * [Docker and containers made simple](https://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
 * [Illustrated Guide To Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
+
+## Tools
+
+### Load Testing
+
+* [Artillery](https://artillery.io/)
