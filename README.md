@@ -14,6 +14,16 @@ My lousy awesome list, which consists of things I actually use or am interested 
 * [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar)
 * [Architect Elevator](https://martinfowler.com/articles/architect-elevator.html)
 
+### Things That Make Your Job Hard
+
+* [Conways Law](https://en.wikipedia.org/wiki/Conway's_law)
+
+### Overcoming Challenges
+
+* [Inverse Conways's Law](https://nordicapis.com/conways-law-what-does-it-mean-for-your-api-strategy/)
+* [Elevating The Constraint](https://www.solutionsiq.com/resource/blog-post/practical-systems-thinking-elevate-the-constraint/)
+* [Mikado Method](http://www.methodsandtools.com/archive/mikado.php)
+
 ### System Design
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
