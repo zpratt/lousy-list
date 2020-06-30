@@ -32,6 +32,8 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 #### Immutability
 
+* WIP - need to add items on how immutability benefits design and maintainability
+
 #### Software Design
 
 * [Neal Ford On Emergent Design](https://www.ibm.com/developerworks/library/j-eaed19/index.html)
@@ -40,6 +42,8 @@ My lousy awesome list, which consists of things I actually use or am interested 
 * [Test Driven Design](http://www.drdobbs.com/architecture-and-design/test-driven-design/240168102)
 
 #### Observability
+
+* WIP - need to add some info on distributed tracing, logging, and metrics. Might include something on service probes with prometheus blackbox exporter as well
 
 ## Control Your Own Destiny
 
@@ -53,7 +57,11 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 ### Configuration As Code
 
+* WIP - might add something about ansible or maybe torch this and add something about immutable infrastructure
+
 ### CI/CD
+
+* WIP - need to add some material on philosophy and techniques
 
 ## Researching Solutions
 
@@ -61,7 +69,7 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 ### Currently Experimenting With
 
-* [NATS](https://github.com/zpratt/nats-experiments)
+* [Localstack](https://github.com/zpratt/localstack-experiments)
 
 ## Kubernetes
 
