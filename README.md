@@ -16,7 +16,7 @@ My lousy awesome list, which consists of things I actually use or am interested 
 
 ### Things That Make Your Job Hard
 
-* [Conways Law](https://en.wikipedia.org/wiki/Conway's_law)
+* [Conway's Law](https://en.wikipedia.org/wiki/Conway's_law)
 
 ### Overcoming Challenges
 
