@@ -1,6 +1,11 @@
 # lousy-list
 My lousy awesome list, which consists of things I actually use or am interested in using.
 
+## Culture
+
+* [Building A Generative Engineering Culture](https://changelog.com/posts/how-to-build-a-generative-engineering-culture)
+* [Blameless Postmortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+
 ## Architecture
 
 ### Being an architect
@@ -12,14 +17,13 @@ My lousy awesome list, which consists of things I actually use or am interested 
 ### System Design
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [3 Pillars Of Observability](https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html)
+
+### Metrics
+
+* [The 4 Key DevOps Metrics](https://stelligent.com/2018/12/21/measuring-devops-success-with-four-key-metrics/)
 
 ### Techniques
-
-#### Clean and Hexagonal Architecture
-
-I realize they aren't technically the same, but they are very similar
-
-* [.net core reference implementation](https://github.com/ivanpaulovich/clean-architecture-manga)
 
 #### 12 Factor Apps
 
@@ -28,11 +32,24 @@ I realize they aren't technically the same, but they are very similar
 
 #### Immutability
 
+#### Software Design
+
+* [Neal Ford On Emergent Design](https://www.ibm.com/developerworks/library/j-eaed19/index.html)
+* [8th Light - Inside out TDD vs Outside In](https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html)
+* [Advantages of Outside In Development](https://codurance.com/2017/10/23/outside-in-design/)
+* [Test Driven Design]([http://www.drdobbs.com/architecture-and-design/test-driven-design/240168102](http://www.drdobbs.com/architecture-and-design/test-driven-design/240168102))
+
+#### Observability
+
 ## Control Your Own Destiny
 
 ### Infrastructure As Code
 
+#### Terraform
+
 * [Test-driven Terraform](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
+* [Open Policy Agent - Terraform Testing](https://www.openpolicyagent.org/docs/v0.11.0/terraform/)
+* [Salesforce - Terraform Policy Sentry](https://github.com/salesforce/policy_sentry)
 
 ### Configuration As Code
 
