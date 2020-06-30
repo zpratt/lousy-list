@@ -37,7 +37,7 @@ My lousy awesome list, which consists of things I actually use or am interested 
 * [Neal Ford On Emergent Design](https://www.ibm.com/developerworks/library/j-eaed19/index.html)
 * [8th Light - Inside out TDD vs Outside In](https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html)
 * [Advantages of Outside In Development](https://codurance.com/2017/10/23/outside-in-design/)
-* [Test Driven Design]([http://www.drdobbs.com/architecture-and-design/test-driven-design/240168102](http://www.drdobbs.com/architecture-and-design/test-driven-design/240168102))
+* [Test Driven Design](http://www.drdobbs.com/architecture-and-design/test-driven-design/240168102)
 
 #### Observability
 
