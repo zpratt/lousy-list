@@ -50,6 +50,10 @@ My lousy awesome list, which consists of things I actually use or am interested 
 * [8th Light - Inside out TDD vs Outside In](https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html)
 * [Advantages of Outside In Development](https://codurance.com/2017/10/23/outside-in-design/)
 * [Test Driven Design](http://www.drdobbs.com/architecture-and-design/test-driven-design/240168102)
+* [Triple Threat to Testing - Speed](https://frontside.com/blog/2020-triple-threat-to-testing-part-1-speed/)
+* [TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
+* [TDD, where did it all go wrong](https://vimeo.com/68375232)
+* [Tests' Influence on Design](https://github.com/testdouble/contributing-tests/wiki/Tests%27-Influence-on-Design)
 
 #### Observability
 
